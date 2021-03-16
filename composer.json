@@ -1,0 +1,24 @@
+{
+  "name": "phplang/println",
+  "description": "Because LN is supperior to \\n, evidently",
+  "type": "library",
+  "keywords": [
+    "console",
+    "echo",
+    "newline",
+    "print"
+  ],
+  "homepage": "https://github.com/phplang/println",
+  "license": "Public Domain",
+  "authors": [
+    {
+      "name": "Sara Golemon",
+      "email": "pollita@php.net",
+      "homepage": "https://twitter.com/SaraMG",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "files": [ "println.php" ]
+  }
+}

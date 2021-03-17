@@ -2,7 +2,7 @@
 
 namespace phplang;
 
-function println(string $msg): int {
+function println(string $msg = ''): int {
     echo $msg, "\n";
     return strlen($msg) + 1;
 }
